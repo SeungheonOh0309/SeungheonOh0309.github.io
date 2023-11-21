@@ -5,7 +5,8 @@ main:
   - title: "Sample Posts"
     url: /year-archive/
   - title: "포스트"
-    url : /_posts/
+    url : /_posts/2023-11-21-first/
+
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
