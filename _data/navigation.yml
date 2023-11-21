@@ -3,7 +3,7 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Sample Postzzzs"
-    permalink :  /_posts/2023-11-21-first/
+    permalink :  /_posts/2023-11-21-first.md/
 #    url: /year-archive/
   - title: "포스z트"
     permalink :  /_posts/2023-11-21-second.md/
