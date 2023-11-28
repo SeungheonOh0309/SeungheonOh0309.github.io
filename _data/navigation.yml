@@ -7,7 +7,7 @@ main:
 #    url: /year-archive/
   - title: "포스z트"
     permalink :  /_posts/2023-11-28-fourth.md/
-#    url : /_posts/2023-11-21-first.md/
+#    url : https://seungheonoh0309.github.io/second/
 
 
   # - title: "About"
